@@ -8,6 +8,8 @@
 
 <p align="center">Transport services app based on <a href="https://rocketseat.com.br/">Rocketseat's</a> GoStack challenges 🎓</p>
 
+<p align="center">Made with Node.js 🚀</p>
+
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Lgdev07/fastfeet-backend?color=%2304D361">
 
