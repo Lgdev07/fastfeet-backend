@@ -9,16 +9,16 @@
 <p align="center">Transport services app based on <a href="https://rocketseat.com.br/">Rocketseat's</a> GoStack challenges 🎓</p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-10?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Lgdev07/fastfeet-backend?color=%2304D361">
 
   <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-LdDev07-%2304D361">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
   <a href="https://github.com/Rocketseat/bootcamp-gostack-10/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat/bootcamp-gostack-10?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/Lgdev07/fastfeet-backend?style=social">
   </a>
 </p>
 
